@@ -1,0 +1,34 @@
+.contactcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+    margin-top: 20px;
+  }
+  
+.contactcontainer svg {
+    width: 30px; 
+    height: 30px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  .copy{
+    color:grey;
+  }
+ 
+@media (max-width: 600px) {
+  .imageel {
+    height: 150px;
+    width: 150px;
+}}
+  
+.contactcontainer svg {
+      margin-bottom: 10px; 
+  }
+  
+  
+  
